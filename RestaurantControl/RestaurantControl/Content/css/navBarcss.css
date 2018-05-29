@@ -1,7 +1,21 @@
 ﻿.colorNormal {
     background-color: rgba(0, 0, 0,0.0) !important;
+    box-shadow: 0 0px 0px -0px black !important;
 }
 
 .colorNormal {
     transition: all 1s ease;
+}
+
+
+.texColor {
+    color: white !important;
+    font-size: 25px !important;
+    font-family: Courgette;
+}
+
+
+.colorCambio {
+    background-color: #ba1700 !important;
+    box-shadow: 0 8px 6px -6px black !important;
 }
